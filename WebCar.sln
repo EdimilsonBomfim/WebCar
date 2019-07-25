@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCar", "WebCar\WebCar.csproj", "{34D72D8A-0AB2-4BA9-A1C8-E14F3B73FFAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCar.Domain", "WebCar.Domain\WebCar.Domain.csproj", "{C0B88B1F-44DD-404E-9108-28F01FB2A37E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCar.Business", "WebCar.Business\WebCar.Business.csproj", "{9A3DE682-B817-4141-8EF6-8F93008149B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCar.Service", "WebCar.Service\WebCar.Service.csproj", "{1FDDC83C-6970-43AD-9EFC-FC25832DD574}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCar.Repository", "WebCar.Repository\WebCar.Repository.csproj", "{116D7A18-9707-4729-9E63-43E08448F22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCar.Testes", "WebCar.Testes\WebCar.Testes.csproj", "{7C531308-BB3D-4CBB-80F1-A06DEA3412BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D72D8A-0AB2-4BA9-A1C8-E14F3B73FFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D72D8A-0AB2-4BA9-A1C8-E14F3B73FFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D72D8A-0AB2-4BA9-A1C8-E14F3B73FFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D72D8A-0AB2-4BA9-A1C8-E14F3B73FFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B88B1F-44DD-404E-9108-28F01FB2A37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B88B1F-44DD-404E-9108-28F01FB2A37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B88B1F-44DD-404E-9108-28F01FB2A37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B88B1F-44DD-404E-9108-28F01FB2A37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3DE682-B817-4141-8EF6-8F93008149B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3DE682-B817-4141-8EF6-8F93008149B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3DE682-B817-4141-8EF6-8F93008149B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3DE682-B817-4141-8EF6-8F93008149B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDDC83C-6970-43AD-9EFC-FC25832DD574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDDC83C-6970-43AD-9EFC-FC25832DD574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDDC83C-6970-43AD-9EFC-FC25832DD574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDDC83C-6970-43AD-9EFC-FC25832DD574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116D7A18-9707-4729-9E63-43E08448F22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116D7A18-9707-4729-9E63-43E08448F22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116D7A18-9707-4729-9E63-43E08448F22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116D7A18-9707-4729-9E63-43E08448F22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C531308-BB3D-4CBB-80F1-A06DEA3412BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C531308-BB3D-4CBB-80F1-A06DEA3412BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C531308-BB3D-4CBB-80F1-A06DEA3412BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C531308-BB3D-4CBB-80F1-A06DEA3412BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2D4197-B4D7-45E7-BCAC-A5CC0895A343}
+	EndGlobalSection
+EndGlobal
